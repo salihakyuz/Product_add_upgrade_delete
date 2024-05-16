@@ -1,0 +1,14 @@
+C:\Users\ahmet\source\repos\TypesAndVariables\AdoNetApp\bin\Debug\AdoNetApp.exe.config
+C:\Users\ahmet\source\repos\TypesAndVariables\AdoNetApp\bin\Debug\AdoNetApp.exe
+C:\Users\ahmet\source\repos\TypesAndVariables\AdoNetApp\bin\Debug\AdoNetApp.pdb
+C:\Users\ahmet\source\repos\TypesAndVariables\AdoNetApp\obj\Debug\AdoNetApp.csproj.AssemblyReference.cache
+C:\Users\ahmet\source\repos\TypesAndVariables\AdoNetApp\obj\Debug\AdoNetApp.Form1.resources
+C:\Users\ahmet\source\repos\TypesAndVariables\AdoNetApp\obj\Debug\AdoNetApp.Properties.Resources.resources
+C:\Users\ahmet\source\repos\TypesAndVariables\AdoNetApp\obj\Debug\AdoNetApp.csproj.GenerateResource.cache
+C:\Users\ahmet\source\repos\TypesAndVariables\AdoNetApp\obj\Debug\AdoNetApp.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\source\repos\TypesAndVariables\AdoNetApp\obj\Debug\AdoNetApp.exe
+C:\Users\ahmet\source\repos\TypesAndVariables\AdoNetApp\obj\Debug\AdoNetApp.pdb
+C:\Users\ahmet\source\repos\TypesAndVariables\AdoNetApp\bin\Debug\AdoNetApp.exe.manifest
+C:\Users\ahmet\source\repos\TypesAndVariables\AdoNetApp\bin\Debug\AdoNetApp.application
+C:\Users\ahmet\source\repos\TypesAndVariables\AdoNetApp\obj\Debug\AdoNetApp.exe.manifest
+C:\Users\ahmet\source\repos\TypesAndVariables\AdoNetApp\obj\Debug\AdoNetApp.application
